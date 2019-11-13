@@ -8,7 +8,7 @@ Download or clone this projetc.
 Run:
 
 ```
-$cd Hunt-Mobile
+$cd Hunt-Web
 $yarn or npm install
 $yarn android or npm run android
 $yarn start or npm start
